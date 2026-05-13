@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="Page-1" id="VdHy_C8QuCpNiQZy-syh">
+    <mxGraphModel dx="1234" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NZUDR5UIcYy1EmOsdvys-15" edge="1" parent="1" source="NZUDR5UIcYy1EmOsdvys-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NZUDR5UIcYy1EmOsdvys-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZUDR5UIcYy1EmOsdvys-16" edge="1" parent="1" source="NZUDR5UIcYy1EmOsdvys-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NZUDR5UIcYy1EmOsdvys-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZUDR5UIcYy1EmOsdvys-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="admin" vertex="1">
+          <mxGeometry height="60" width="30" x="120" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NZUDR5UIcYy1EmOsdvys-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="attender&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="670" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="NZUDR5UIcYy1EmOsdvys-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="user" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="NZUDR5UIcYy1EmOsdvys-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="add/update/delete parking lot" vertex="1">
+          <mxGeometry height="70" width="140" x="240" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NZUDR5UIcYy1EmOsdvys-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="add/update/delete parking slot" vertex="1">
+          <mxGeometry height="70" width="140" x="240" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NZUDR5UIcYy1EmOsdvys-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="view parking slot" vertex="1">
+          <mxGeometry height="70" width="140" x="240" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NZUDR5UIcYy1EmOsdvys-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="ticket/user data" vertex="1">
+          <mxGeometry height="70" width="140" x="240" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
